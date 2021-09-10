@@ -1,0 +1,14 @@
+{
+  "name": "@bytedanny22/learning-vis-tools-tutorial-6-javascript-basics-and-observ",
+  "main": "97217f671b5adf6f@831.js",
+  "version": "831.0.0",
+  "homepage": "https://observablehq.com/@bytedanny22/learning-vis-tools-tutorial-6-javascript-basics-and-observ",
+  "author": {
+    "name": "DANNY LEUNG",
+    "url": "https://observablehq.com/@bytedanny22"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
